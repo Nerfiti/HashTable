@@ -22,7 +22,7 @@
 ---------------------------------------------------
 1. **AlwaysOne**
 
-![AlwaysOne](Hashes/pictures/AlwaysOne.png)
+![AlwaysOne](Hashes/pictures/AlwaysOneExt.png)
 
 | Максимальный размер списка | 58000 |
 |:--------------------------:|:-----:|
@@ -34,7 +34,7 @@
 ---------------------------------------------------
 2. **FirstChar**
 
-![FirstChar](Hashes/pictures/FirstChar.png)
+![FirstChar](Hashes/pictures/FirstCharExt.png)
 
 | Максимальный размер списка | 6670  |
 |:--------------------------:|:-----:|
@@ -46,7 +46,7 @@
 ---------------------------------------------------
 3. **LenHash**
 
-![LenHash](Hashes/pictures/LenHash.png)
+![LenHash](Hashes/pictures/LenHashExt.png)
 
 | Максимальный размер списка | 9382  |
 |:--------------------------:|:-----:|
@@ -58,7 +58,7 @@
 ---------------------------------------------------
 4. **SumChar**
 
-![SumChar](Hashes/pictures/SumChar.png)
+![SumChar](Hashes/pictures/SumCharExt.png)
 
 | Максимальный размер списка | 230   |
 |:--------------------------:|:-----:|
@@ -70,7 +70,7 @@
 ---------------------------------------------------
 5. **RolHash**
 
-![RolHash](Hashes/pictures/RolHash.png)
+![RolHash](Hashes/pictures/RolHashExt.png)
 
 | Максимальный размер списка | 73    |
 |:--------------------------:|:-----:|
@@ -82,7 +82,7 @@
 ---------------------------------------------------
 6. **RorHash**
 
-![RorHash](Hashes/pictures/RorHash.png)
+![RorHash](Hashes/pictures/RorHashExt.png)
 
 | Максимальный размер списка | 122   |
 |:--------------------------:|:-----:|
@@ -94,7 +94,7 @@
 ---------------------------------------------------
 7. **Crc32**
 
-![Crc32](Hashes/pictures/Crc32Hash.png)
+![Crc32](Hashes/pictures/Crc32HashExt.png)
 
 | Максимальный размер списка | 73    |
 |:--------------------------:|:-----:|
